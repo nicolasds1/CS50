@@ -1,0 +1,26 @@
+.GoogleLogo {
+    display: block;
+    margin: auto;
+}
+
+.SearchButton , .FeelingLucky {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+#BarInput {
+    background-color: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 402px;
+    width: auto;
+
+}
